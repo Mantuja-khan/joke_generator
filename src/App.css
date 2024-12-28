@@ -14,10 +14,6 @@
 
 .app h1 {
   font-size: clamp(1.5rem, 4vw, 2.5rem);
-  background: linear-gradient(45deg, #646cff, #ff6b6b);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
   margin: 0;
   padding: 0.5rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
